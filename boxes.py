@@ -43,6 +43,6 @@ for c in fields:
         text1 = pytesseract.image_to_string(ori[y-10:y+h+10,x-10:], config="--psm 10")
     text2 = pytesseract.image_to_string(ori[y-3*h:y,x:])
     print(text1, text2)
-    s = text2 + " : " + text1 + '\n'
+    s = text2 + " @ " + text1 + '\n'
     file1.write(s)
 file1.close()
