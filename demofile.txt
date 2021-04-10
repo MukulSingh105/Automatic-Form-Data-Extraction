@@ -1,0 +1,18 @@
+5. Number of shares held by the member? : 0
+1. Total Number of shares alloted by the member? : 0
+. Phone type”
+
+Smart Phone : ) Feature Phone
+2. Member Farmer Contact number : 9159698024
+|. Village* : Puthupatti
+). Member Date-Of-Birth : 25-05-1977
+Member Farmer's Gender* : > Male
+Member's Father's Name* : Arumugam
+RCTS S SE INES : A
+Member's First Name* : Balamurugan
+FPO Member ID* : 1
+District* : Thoothukudi
+State* : Tamil Nadu
+an translate the content of this page by selecting a language in the select box.
+
+FPO Name (to which the member belongs)* : Vizhuthugal agricultural farmer producer company
